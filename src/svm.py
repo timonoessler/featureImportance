@@ -11,8 +11,8 @@ import joblib
 
 def load_and_prepare_data():
     # Load and prepare data
-    print("Loading and preparing data: small_merged.csv")
-    data = pd.read_csv("data/small_merged.csv")
+    print("Loading and preparing data: very_small_df.csv")
+    data = pd.read_csv("data/very_small_df.csv")
 
     # Encode target column and transform categorical variables to numerical
     label_encoder = LabelEncoder()
