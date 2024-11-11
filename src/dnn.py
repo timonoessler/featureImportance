@@ -12,7 +12,7 @@ import numpy as np
 import pandas as pd
 
 # Daten laden
-data = pd.read_csv("data/merged.csv")
+data = pd.read_csv("data/very_small_df.csv")
 
 # Zielspalte extrahieren und kategorische Variablen kodieren
 label_encoder = LabelEncoder()
