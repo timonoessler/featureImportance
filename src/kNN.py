@@ -4,7 +4,6 @@ from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.impute import SimpleImputer
-import numpy as np
 import joblib
 
 def load_and_prepare_data():
@@ -43,10 +42,6 @@ def load_and_prepare_data():
     X_test = scaler.transform(X_test)
 
     return X_train, X_test, y_train, y_test, X.columns
-
-import joblib
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.metrics import classification_report, confusion_matrix
 
 def train_knn(X_train, y_train, X_test, y_test):
     # Train kNN model with fixed hyperparameters

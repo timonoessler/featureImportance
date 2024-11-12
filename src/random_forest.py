@@ -10,7 +10,7 @@ import joblib
 def load_and_prepare_data():
     # Load and prepare data
     print("Loading and preparing data")
-    data = pd.read_csv("data/merged.csv")
+    data = pd.read_csv("data/very_small_df.csv")
 
     # Extract target column and encode categorical variables
     label_encoder = LabelEncoder()
