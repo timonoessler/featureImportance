@@ -1,3 +1,4 @@
+# Programm to train the Artificial Neural Network
 # Benötigte Bibliotheken importieren
 from sklearn.neural_network import MLPClassifier
 from sklearn.preprocessing import StandardScaler, LabelEncoder
