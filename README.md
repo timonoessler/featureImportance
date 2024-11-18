@@ -14,7 +14,7 @@ Dieses Projekt untersucht die Einflussfaktoren auf Eskalationen im technischen K
 
 Dieses Projekt soll den technischen Kundendienst durch datenbasierte Entscheidungen effizienter gestalten und die Prognosefähigkeiten durch die Verbesserung der Datenqualität und die Anwendung fortgeschrittener Machine-Learning-Methoden optimieren.
 
-
+Der code wurde mit der Unterstützung von GitHub Copilot erstellt.
 ### Early Detection of Escalations in Technical Customer Support Using Machine Learning
 
 This project explores the factors that influence escalations in technical customer support (TCS) using machine learning models. The goal is to analyze existing data to identify which factors contribute to the escalation of a support case, ultimately improving the support process and increasing customer satisfaction.
@@ -30,3 +30,5 @@ This project explores the factors that influence escalations in technical custom
 - Exploratory Data Analysis (EDA) for pattern recognition and feature importance
 
 This project aims to enhance the efficiency of technical customer support through data-driven decision-making, improve prediction capabilities by focusing on data quality, and leverage advanced machine learning techniques.
+
+This code was created with the support of GitHub Copilot.
