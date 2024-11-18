@@ -1,3 +1,4 @@
+# Erstellt mit der Unterstützung von GitHub Copilot am 01.11.2024
 # Programm to train the Support Vector Machine
 # Import required libraries
 import pandas as pd
