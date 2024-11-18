@@ -1,3 +1,5 @@
+# Quelle: https://www.pluralsight.com/resources/blog/guides/machine-learning-neural-networks-scikit-learn
+# Erstellt mit der Unterstützung von GitHub Copilot am 01.11.2024
 # Programm to train the Artificial Neural Network
 # Benötigte Bibliotheken importieren
 from sklearn.neural_network import MLPClassifier
