@@ -1,3 +1,4 @@
+# Erstellt mit der Unterstützung von GitHub Copilot am 01.11.2024
 # This predictor can be used with every trained model in sis repo.
 import joblib
 import pandas as pd
